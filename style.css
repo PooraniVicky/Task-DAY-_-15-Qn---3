@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to top, #5347ffc9 0%, #4aff39d2 100%);
+}
+nav{
+    background: #BBD2C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0080b3, #4e779e, #9fecff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0080b3, #4e779e, #9fecff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+table{
+    border: 1px solid black;
+}
+td,th{
+    border: 1px solid black;
+    padding: 1em;
+}
